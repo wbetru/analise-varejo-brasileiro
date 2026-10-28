@@ -59,3 +59,14 @@ portfolio-varejo/
 ## Referência
 IBGE. Pesquisa Mensal de Comércio (PMC), Tabela 5 — julho de 2026. https://www.ibge.gov.br/estatisticas/economicas/comercio/9227-pesquisa-mensal-do-comercio.html
 
+
+## Dashboard — Power BI
+
+### Visão Geral
+
+![Visão Geral do Varejo Brasileiro](powerbi/visao_geral_ajustada.png)
+
+### Análise Temporal
+
+![Análise Temporal do Varejo Brasileiro](powerbi/analise_temporal_ajustada.png)
+
