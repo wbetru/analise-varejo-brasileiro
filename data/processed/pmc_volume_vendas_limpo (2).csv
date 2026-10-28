@@ -1,0 +1,209 @@
+data,ano,mes,codigo_atividade,atividade,tipo_indicador,grupo_fonte,indice_volume_vendas
+2025-07-01,2025,7,,Comércio Varejista,Agregado,Comércio Varejista,106.89735
+2025-08-01,2025,8,,Comércio Varejista,Agregado,Comércio Varejista,107.19771
+2025-09-01,2025,9,,Comércio Varejista,Agregado,Comércio Varejista,102.6733
+2025-10-01,2025,10,,Comércio Varejista,Agregado,Comércio Varejista,108.70925
+2025-11-01,2025,11,,Comércio Varejista,Agregado,Comércio Varejista,116.05207
+2025-12-01,2025,12,,Comércio Varejista,Agregado,Comércio Varejista,129.6506
+2026-01-01,2026,1,,Comércio Varejista,Agregado,Comércio Varejista,105.5294
+2026-02-01,2026,2,,Comércio Varejista,Agregado,Comércio Varejista,97.6686
+2026-03-01,2026,3,,Comércio Varejista,Agregado,Comércio Varejista,108.52741
+2026-04-01,2026,4,,Comércio Varejista,Agregado,Comércio Varejista,105.50816
+2026-05-01,2026,5,,Comércio Varejista,Agregado,Comércio Varejista,109.27978
+2026-06-01,2026,6,,Comércio Varejista,Agregado,Comércio Varejista,104.99721
+2026-07-01,2026,7,,Comércio Varejista,Agregado,Comércio Varejista,108.23306
+2025-07-01,2025,7,1.0,Combustíveis e lubrificantes,Atividade,Comércio Varejista,106.02579
+2025-08-01,2025,8,1.0,Combustíveis e lubrificantes,Atividade,Comércio Varejista,105.58237
+2025-09-01,2025,9,1.0,Combustíveis e lubrificantes,Atividade,Comércio Varejista,102.49972
+2025-10-01,2025,10,1.0,Combustíveis e lubrificantes,Atividade,Comércio Varejista,108.35201
+2025-11-01,2025,11,1.0,Combustíveis e lubrificantes,Atividade,Comércio Varejista,104.53082
+2025-12-01,2025,12,1.0,Combustíveis e lubrificantes,Atividade,Comércio Varejista,108.38214
+2026-01-01,2026,1,1.0,Combustíveis e lubrificantes,Atividade,Comércio Varejista,102.06202
+2026-02-01,2026,2,1.0,Combustíveis e lubrificantes,Atividade,Comércio Varejista,96.43287
+2026-03-01,2026,3,1.0,Combustíveis e lubrificantes,Atividade,Comércio Varejista,109.91654
+2026-04-01,2026,4,1.0,Combustíveis e lubrificantes,Atividade,Comércio Varejista,100.5914
+2026-05-01,2026,5,1.0,Combustíveis e lubrificantes,Atividade,Comércio Varejista,103.70374
+2026-06-01,2026,6,1.0,Combustíveis e lubrificantes,Atividade,Comércio Varejista,99.3221
+2026-07-01,2026,7,1.0,Combustíveis e lubrificantes,Atividade,Comércio Varejista,105.44877
+2025-07-01,2025,7,2.0,"Hipermercados, supermercados, produtos alimentícios bebidas e fumo",Atividade,Comércio Varejista,107.0789
+2025-08-01,2025,8,2.0,"Hipermercados, supermercados, produtos alimentícios bebidas e fumo",Atividade,Comércio Varejista,110.7247
+2025-09-01,2025,9,2.0,"Hipermercados, supermercados, produtos alimentícios bebidas e fumo",Atividade,Comércio Varejista,104.80687
+2025-10-01,2025,10,2.0,"Hipermercados, supermercados, produtos alimentícios bebidas e fumo",Atividade,Comércio Varejista,110.43216
+2025-11-01,2025,11,2.0,"Hipermercados, supermercados, produtos alimentícios bebidas e fumo",Atividade,Comércio Varejista,112.98795
+2025-12-01,2025,12,2.0,"Hipermercados, supermercados, produtos alimentícios bebidas e fumo",Atividade,Comércio Varejista,128.87705
+2026-01-01,2026,1,2.0,"Hipermercados, supermercados, produtos alimentícios bebidas e fumo",Atividade,Comércio Varejista,107.87377
+2026-02-01,2026,2,2.0,"Hipermercados, supermercados, produtos alimentícios bebidas e fumo",Atividade,Comércio Varejista,102.99785
+2026-03-01,2026,3,2.0,"Hipermercados, supermercados, produtos alimentícios bebidas e fumo",Atividade,Comércio Varejista,109.90862
+2026-04-01,2026,4,2.0,"Hipermercados, supermercados, produtos alimentícios bebidas e fumo",Atividade,Comércio Varejista,110.3757
+2026-05-01,2026,5,2.0,"Hipermercados, supermercados, produtos alimentícios bebidas e fumo",Atividade,Comércio Varejista,108.98143
+2026-06-01,2026,6,2.0,"Hipermercados, supermercados, produtos alimentícios bebidas e fumo",Atividade,Comércio Varejista,105.12378
+2026-07-01,2026,7,2.0,"Hipermercados, supermercados, produtos alimentícios bebidas e fumo",Atividade,Comércio Varejista,110.13423
+2025-07-01,2025,7,2.1,Hipermercados e supermercados,Atividade,Comércio Varejista,108.23723
+2025-08-01,2025,8,2.1,Hipermercados e supermercados,Atividade,Comércio Varejista,112.19433
+2025-09-01,2025,9,2.1,Hipermercados e supermercados,Atividade,Comércio Varejista,106.15169
+2025-10-01,2025,10,2.1,Hipermercados e supermercados,Atividade,Comércio Varejista,111.75774
+2025-11-01,2025,11,2.1,Hipermercados e supermercados,Atividade,Comércio Varejista,114.65711
+2025-12-01,2025,12,2.1,Hipermercados e supermercados,Atividade,Comércio Varejista,130.44854
+2026-01-01,2026,1,2.1,Hipermercados e supermercados,Atividade,Comércio Varejista,109.3207
+2026-02-01,2026,2,2.1,Hipermercados e supermercados,Atividade,Comércio Varejista,104.3658
+2026-03-01,2026,3,2.1,Hipermercados e supermercados,Atividade,Comércio Varejista,111.01073
+2026-04-01,2026,4,2.1,Hipermercados e supermercados,Atividade,Comércio Varejista,112.05185
+2026-05-01,2026,5,2.1,Hipermercados e supermercados,Atividade,Comércio Varejista,110.15478
+2026-06-01,2026,6,2.1,Hipermercados e supermercados,Atividade,Comércio Varejista,106.09806
+2026-07-01,2026,7,2.1,Hipermercados e supermercados,Atividade,Comércio Varejista,111.33895
+2025-07-01,2025,7,3.0,"Tecidos, vestuário e calçados",Atividade,Comércio Varejista,99.69134
+2025-08-01,2025,8,3.0,"Tecidos, vestuário e calçados",Atividade,Comércio Varejista,95.96111
+2025-09-01,2025,9,3.0,"Tecidos, vestuário e calçados",Atividade,Comércio Varejista,83.87567
+2025-10-01,2025,10,3.0,"Tecidos, vestuário e calçados",Atividade,Comércio Varejista,90.52707
+2025-11-01,2025,11,3.0,"Tecidos, vestuário e calçados",Atividade,Comércio Varejista,105.21655
+2025-12-01,2025,12,3.0,"Tecidos, vestuário e calçados",Atividade,Comércio Varejista,169.99525
+2026-01-01,2026,1,3.0,"Tecidos, vestuário e calçados",Atividade,Comércio Varejista,83.00501
+2026-02-01,2026,2,3.0,"Tecidos, vestuário e calçados",Atividade,Comércio Varejista,72.45361
+2026-03-01,2026,3,3.0,"Tecidos, vestuário e calçados",Atividade,Comércio Varejista,84.34995
+2026-04-01,2026,4,3.0,"Tecidos, vestuário e calçados",Atividade,Comércio Varejista,87.61089
+2026-05-01,2026,5,3.0,"Tecidos, vestuário e calçados",Atividade,Comércio Varejista,112.69701
+2026-06-01,2026,6,3.0,"Tecidos, vestuário e calçados",Atividade,Comércio Varejista,106.04172
+2026-07-01,2026,7,3.0,"Tecidos, vestuário e calçados",Atividade,Comércio Varejista,94.95812
+2025-07-01,2025,7,4.0,Móveis e eletrodomésticos,Atividade,Comércio Varejista,109.86279
+2025-08-01,2025,8,4.0,Móveis e eletrodomésticos,Atividade,Comércio Varejista,104.16968
+2025-09-01,2025,9,4.0,Móveis e eletrodomésticos,Atividade,Comércio Varejista,104.14655
+2025-10-01,2025,10,4.0,Móveis e eletrodomésticos,Atividade,Comércio Varejista,110.49683
+2025-11-01,2025,11,4.0,Móveis e eletrodomésticos,Atividade,Comércio Varejista,141.68435
+2025-12-01,2025,12,4.0,Móveis e eletrodomésticos,Atividade,Comércio Varejista,143.47066
+2026-01-01,2026,1,4.0,Móveis e eletrodomésticos,Atividade,Comércio Varejista,114.13268
+2026-02-01,2026,2,4.0,Móveis e eletrodomésticos,Atividade,Comércio Varejista,96.92707
+2026-03-01,2026,3,4.0,Móveis e eletrodomésticos,Atividade,Comércio Varejista,109.18712
+2026-04-01,2026,4,4.0,Móveis e eletrodomésticos,Atividade,Comércio Varejista,100.11091
+2026-05-01,2026,5,4.0,Móveis e eletrodomésticos,Atividade,Comércio Varejista,115.12606
+2026-06-01,2026,6,4.0,Móveis e eletrodomésticos,Atividade,Comércio Varejista,107.94893
+2026-07-01,2026,7,4.0,Móveis e eletrodomésticos,Atividade,Comércio Varejista,105.76752
+2025-07-01,2025,7,4.1,Móveis,Atividade,Comércio Varejista,96.84966
+2025-08-01,2025,8,4.1,Móveis,Atividade,Comércio Varejista,90.2592
+2025-09-01,2025,9,4.1,Móveis,Atividade,Comércio Varejista,90.16944
+2025-10-01,2025,10,4.1,Móveis,Atividade,Comércio Varejista,90.78211
+2025-11-01,2025,11,4.1,Móveis,Atividade,Comércio Varejista,117.18866
+2025-12-01,2025,12,4.1,Móveis,Atividade,Comércio Varejista,116.83472
+2026-01-01,2026,1,4.1,Móveis,Atividade,Comércio Varejista,92.70287
+2026-02-01,2026,2,4.1,Móveis,Atividade,Comércio Varejista,78.77942
+2026-03-01,2026,3,4.1,Móveis,Atividade,Comércio Varejista,88.77812
+2026-04-01,2026,4,4.1,Móveis,Atividade,Comércio Varejista,85.36828
+2026-05-01,2026,5,4.1,Móveis,Atividade,Comércio Varejista,99.85567
+2026-06-01,2026,6,4.1,Móveis,Atividade,Comércio Varejista,91.87102
+2026-07-01,2026,7,4.1,Móveis,Atividade,Comércio Varejista,94.26914
+2025-07-01,2025,7,4.2,Eletrodomésticos,Atividade,Comércio Varejista,116.40359
+2025-08-01,2025,8,4.2,Eletrodomésticos,Atividade,Comércio Varejista,111.3172
+2025-09-01,2025,9,4.2,Eletrodomésticos,Atividade,Comércio Varejista,111.40652
+2025-10-01,2025,10,4.2,Eletrodomésticos,Atividade,Comércio Varejista,119.93533
+2025-11-01,2025,11,4.2,Eletrodomésticos,Atividade,Comércio Varejista,154.43228
+2025-12-01,2025,12,4.2,Eletrodomésticos,Atividade,Comércio Varejista,155.97716
+2026-01-01,2026,1,4.2,Eletrodomésticos,Atividade,Comércio Varejista,124.32788
+2026-02-01,2026,2,4.2,Eletrodomésticos,Atividade,Comércio Varejista,105.50402
+2026-03-01,2026,3,4.2,Eletrodomésticos,Atividade,Comércio Varejista,118.77526
+2026-04-01,2026,4,4.2,Eletrodomésticos,Atividade,Comércio Varejista,107.47266
+2026-05-01,2026,5,4.2,Eletrodomésticos,Atividade,Comércio Varejista,123.26916
+2026-06-01,2026,6,4.2,Eletrodomésticos,Atividade,Comércio Varejista,116.11406
+2026-07-01,2026,7,4.2,Eletrodomésticos,Atividade,Comércio Varejista,112.24037
+2025-07-01,2025,7,5.0,"Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos",Atividade,Comércio Varejista,119.20744
+2025-08-01,2025,8,5.0,"Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos",Atividade,Comércio Varejista,118.48789
+2025-09-01,2025,9,5.0,"Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos",Atividade,Comércio Varejista,118.48885
+2025-10-01,2025,10,5.0,"Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos",Atividade,Comércio Varejista,122.08413
+2025-11-01,2025,11,5.0,"Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos",Atividade,Comércio Varejista,126.04442
+2025-12-01,2025,12,5.0,"Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos",Atividade,Comércio Varejista,128.80818
+2026-01-01,2026,1,5.0,"Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos",Atividade,Comércio Varejista,113.3228
+2026-02-01,2026,2,5.0,"Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos",Atividade,Comércio Varejista,106.20783
+2026-03-01,2026,3,5.0,"Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos",Atividade,Comércio Varejista,123.93041
+2026-04-01,2026,4,5.0,"Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos",Atividade,Comércio Varejista,114.85608
+2026-05-01,2026,5,5.0,"Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos",Atividade,Comércio Varejista,126.41351
+2026-06-01,2026,6,5.0,"Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos",Atividade,Comércio Varejista,122.29414
+2026-07-01,2026,7,5.0,"Artigos farmacêuticos, médicos, ortopédicos, de perfumaria e cosméticos",Atividade,Comércio Varejista,124.83843
+2025-07-01,2025,7,6.0,"Livros, jornais, revistas e papelaria",Atividade,Comércio Varejista,81.62493
+2025-08-01,2025,8,6.0,"Livros, jornais, revistas e papelaria",Atividade,Comércio Varejista,73.67461
+2025-09-01,2025,9,6.0,"Livros, jornais, revistas e papelaria",Atividade,Comércio Varejista,64.72457
+2025-10-01,2025,10,6.0,"Livros, jornais, revistas e papelaria",Atividade,Comércio Varejista,72.50701
+2025-11-01,2025,11,6.0,"Livros, jornais, revistas e papelaria",Atividade,Comércio Varejista,77.90816
+2025-12-01,2025,12,6.0,"Livros, jornais, revistas e papelaria",Atividade,Comércio Varejista,110.26936
+2026-01-01,2026,1,6.0,"Livros, jornais, revistas e papelaria",Atividade,Comércio Varejista,154.83177
+2026-02-01,2026,2,6.0,"Livros, jornais, revistas e papelaria",Atividade,Comércio Varejista,105.48621
+2026-03-01,2026,3,6.0,"Livros, jornais, revistas e papelaria",Atividade,Comércio Varejista,82.22177
+2026-04-01,2026,4,6.0,"Livros, jornais, revistas e papelaria",Atividade,Comércio Varejista,69.45799
+2026-05-01,2026,5,6.0,"Livros, jornais, revistas e papelaria",Atividade,Comércio Varejista,94.31422
+2026-06-01,2026,6,6.0,"Livros, jornais, revistas e papelaria",Atividade,Comércio Varejista,84.56107
+2026-07-01,2026,7,6.0,"Livros, jornais, revistas e papelaria",Atividade,Comércio Varejista,80.25417
+2025-07-01,2025,7,7.0,"Equipamentos e materiais para escritório, informática e comunicação",Atividade,Comércio Varejista,102.32751
+2025-08-01,2025,8,7.0,"Equipamentos e materiais para escritório, informática e comunicação",Atividade,Comércio Varejista,98.18596
+2025-09-01,2025,9,7.0,"Equipamentos e materiais para escritório, informática e comunicação",Atividade,Comércio Varejista,97.80402
+2025-10-01,2025,10,7.0,"Equipamentos e materiais para escritório, informática e comunicação",Atividade,Comércio Varejista,112.81681
+2025-11-01,2025,11,7.0,"Equipamentos e materiais para escritório, informática e comunicação",Atividade,Comércio Varejista,142.42961
+2025-12-01,2025,12,7.0,"Equipamentos e materiais para escritório, informática e comunicação",Atividade,Comércio Varejista,142.44383
+2026-01-01,2026,1,7.0,"Equipamentos e materiais para escritório, informática e comunicação",Atividade,Comércio Varejista,107.47446
+2026-02-01,2026,2,7.0,"Equipamentos e materiais para escritório, informática e comunicação",Atividade,Comércio Varejista,91.97797
+2026-03-01,2026,3,7.0,"Equipamentos e materiais para escritório, informática e comunicação",Atividade,Comércio Varejista,119.7113
+2026-04-01,2026,4,7.0,"Equipamentos e materiais para escritório, informática e comunicação",Atividade,Comércio Varejista,101.24937
+2026-05-01,2026,5,7.0,"Equipamentos e materiais para escritório, informática e comunicação",Atividade,Comércio Varejista,99.0729
+2026-06-01,2026,6,7.0,"Equipamentos e materiais para escritório, informática e comunicação",Atividade,Comércio Varejista,99.08894
+2026-07-01,2026,7,7.0,"Equipamentos e materiais para escritório, informática e comunicação",Atividade,Comércio Varejista,104.86379
+2025-07-01,2025,7,8.0,Outros artigos de uso pessoal e doméstico,Atividade,Comércio Varejista,99.17776
+2025-08-01,2025,8,8.0,Outros artigos de uso pessoal e doméstico,Atividade,Comércio Varejista,90.55199
+2025-09-01,2025,9,8.0,Outros artigos de uso pessoal e doméstico,Atividade,Comércio Varejista,88.84309
+2025-10-01,2025,10,8.0,Outros artigos de uso pessoal e doméstico,Atividade,Comércio Varejista,97.74279
+2025-11-01,2025,11,8.0,Outros artigos de uso pessoal e doméstico,Atividade,Comércio Varejista,123.94339
+2025-12-01,2025,12,8.0,Outros artigos de uso pessoal e doméstico,Atividade,Comércio Varejista,124.13164
+2026-01-01,2026,1,8.0,Outros artigos de uso pessoal e doméstico,Atividade,Comércio Varejista,95.66592
+2026-02-01,2026,2,8.0,Outros artigos de uso pessoal e doméstico,Atividade,Comércio Varejista,78.62431
+2026-03-01,2026,3,8.0,Outros artigos de uso pessoal e doméstico,Atividade,Comércio Varejista,98.62793
+2026-04-01,2026,4,8.0,Outros artigos de uso pessoal e doméstico,Atividade,Comércio Varejista,92.75053
+2026-05-01,2026,5,8.0,Outros artigos de uso pessoal e doméstico,Atividade,Comércio Varejista,97.01372
+2026-06-01,2026,6,8.0,Outros artigos de uso pessoal e doméstico,Atividade,Comércio Varejista,93.48192
+2026-07-01,2026,7,8.0,Outros artigos de uso pessoal e doméstico,Atividade,Comércio Varejista,96.88315
+2025-07-01,2025,7,,Comércio Varejista Ampliado,Agregado,Comércio Varejista Ampliado,106.52857
+2025-08-01,2025,8,,Comércio Varejista Ampliado,Agregado,Comércio Varejista Ampliado,106.21517
+2025-09-01,2025,9,,Comércio Varejista Ampliado,Agregado,Comércio Varejista Ampliado,104.98365
+2025-10-01,2025,10,,Comércio Varejista Ampliado,Agregado,Comércio Varejista Ampliado,110.34838
+2025-11-01,2025,11,,Comércio Varejista Ampliado,Agregado,Comércio Varejista Ampliado,111.16828
+2025-12-01,2025,12,,Comércio Varejista Ampliado,Agregado,Comércio Varejista Ampliado,120.8483
+2026-01-01,2026,1,,Comércio Varejista Ampliado,Agregado,Comércio Varejista Ampliado,103.43155
+2026-02-01,2026,2,,Comércio Varejista Ampliado,Agregado,Comércio Varejista Ampliado,96.29791
+2026-03-01,2026,3,,Comércio Varejista Ampliado,Agregado,Comércio Varejista Ampliado,110.59539
+2026-04-01,2026,4,,Comércio Varejista Ampliado,Agregado,Comércio Varejista Ampliado,103.88933
+2026-05-01,2026,5,,Comércio Varejista Ampliado,Agregado,Comércio Varejista Ampliado,106.99537
+2026-06-01,2026,6,,Comércio Varejista Ampliado,Agregado,Comércio Varejista Ampliado,104.45494
+2026-07-01,2026,7,,Comércio Varejista Ampliado,Agregado,Comércio Varejista Ampliado,108.46427
+2025-07-01,2025,7,9.0,"Veículos, motocicletas, partes e peças",Atividade,Comércio Varejista Ampliado,120.54302
+2025-08-01,2025,8,9.0,"Veículos, motocicletas, partes e peças",Atividade,Comércio Varejista Ampliado,118.77825
+2025-09-01,2025,9,9.0,"Veículos, motocicletas, partes e peças",Atividade,Comércio Varejista Ampliado,122.08207
+2025-10-01,2025,10,9.0,"Veículos, motocicletas, partes e peças",Atividade,Comércio Varejista Ampliado,128.02901
+2025-11-01,2025,11,9.0,"Veículos, motocicletas, partes e peças",Atividade,Comércio Varejista Ampliado,115.91393
+2025-12-01,2025,12,9.0,"Veículos, motocicletas, partes e peças",Atividade,Comércio Varejista Ampliado,121.61783
+2026-01-01,2026,1,9.0,"Veículos, motocicletas, partes e peças",Atividade,Comércio Varejista Ampliado,113.1914
+2026-02-01,2026,2,9.0,"Veículos, motocicletas, partes e peças",Atividade,Comércio Varejista Ampliado,104.26474
+2026-03-01,2026,3,9.0,"Veículos, motocicletas, partes e peças",Atividade,Comércio Varejista Ampliado,127.97506
+2026-04-01,2026,4,9.0,"Veículos, motocicletas, partes e peças",Atividade,Comércio Varejista Ampliado,115.34058
+2026-05-01,2026,5,9.0,"Veículos, motocicletas, partes e peças",Atividade,Comércio Varejista Ampliado,120.67183
+2026-06-01,2026,6,9.0,"Veículos, motocicletas, partes e peças",Atividade,Comércio Varejista Ampliado,121.54169
+2026-07-01,2026,7,9.0,"Veículos, motocicletas, partes e peças",Atividade,Comércio Varejista Ampliado,126.58188
+2025-07-01,2025,7,10.0,Material de construção,Atividade,Comércio Varejista Ampliado,109.16099
+2025-08-01,2025,8,10.0,Material de construção,Atividade,Comércio Varejista Ampliado,104.98945
+2025-09-01,2025,9,10.0,Material de construção,Atividade,Comércio Varejista Ampliado,106.32685
+2025-10-01,2025,10,10.0,Material de construção,Atividade,Comércio Varejista Ampliado,111.12396
+2025-11-01,2025,11,10.0,Material de construção,Atividade,Comércio Varejista Ampliado,103.35172
+2025-12-01,2025,12,10.0,Material de construção,Atividade,Comércio Varejista Ampliado,93.55571
+2026-01-01,2026,1,10.0,Material de construção,Atividade,Comércio Varejista Ampliado,99.3881
+2026-02-01,2026,2,10.0,Material de construção,Atividade,Comércio Varejista Ampliado,91.5551
+2026-03-01,2026,3,10.0,Material de construção,Atividade,Comércio Varejista Ampliado,107.98037
+2026-04-01,2026,4,10.0,Material de construção,Atividade,Comércio Varejista Ampliado,98.52962
+2026-05-01,2026,5,10.0,Material de construção,Atividade,Comércio Varejista Ampliado,104.64314
+2026-06-01,2026,6,10.0,Material de construção,Atividade,Comércio Varejista Ampliado,98.00336
+2026-07-01,2026,7,10.0,Material de construção,Atividade,Comércio Varejista Ampliado,106.98296
+2025-07-01,2025,7,11.0,"Atacado especializado em produtos alimentícios, bebidas e fumo",Atividade,Comércio Varejista Ampliado,89.06284
+2025-08-01,2025,8,11.0,"Atacado especializado em produtos alimentícios, bebidas e fumo",Atividade,Comércio Varejista Ampliado,89.84584
+2025-09-01,2025,9,11.0,"Atacado especializado em produtos alimentícios, bebidas e fumo",Atividade,Comércio Varejista Ampliado,94.91165
+2025-10-01,2025,10,11.0,"Atacado especializado em produtos alimentícios, bebidas e fumo",Atividade,Comércio Varejista Ampliado,97.42114
+2025-11-01,2025,11,11.0,"Atacado especializado em produtos alimentícios, bebidas e fumo",Atividade,Comércio Varejista Ampliado,91.63255
+2025-12-01,2025,12,11.0,"Atacado especializado em produtos alimentícios, bebidas e fumo",Atividade,Comércio Varejista Ampliado,100.2338
+2026-01-01,2026,1,11.0,"Atacado especializado em produtos alimentícios, bebidas e fumo",Atividade,Comércio Varejista Ampliado,87.20792
+2026-02-01,2026,2,11.0,"Atacado especializado em produtos alimentícios, bebidas e fumo",Atividade,Comércio Varejista Ampliado,85.02993
+2026-03-01,2026,3,11.0,"Atacado especializado em produtos alimentícios, bebidas e fumo",Atividade,Comércio Varejista Ampliado,101.22706
+2026-04-01,2026,4,11.0,"Atacado especializado em produtos alimentícios, bebidas e fumo",Atividade,Comércio Varejista Ampliado,88.30606
+2026-05-01,2026,5,11.0,"Atacado especializado em produtos alimentícios, bebidas e fumo",Atividade,Comércio Varejista Ampliado,85.11723
+2026-06-01,2026,6,11.0,"Atacado especializado em produtos alimentícios, bebidas e fumo",Atividade,Comércio Varejista Ampliado,87.47186
+2026-07-01,2026,7,11.0,"Atacado especializado em produtos alimentícios, bebidas e fumo",Atividade,Comércio Varejista Ampliado,90.89116
